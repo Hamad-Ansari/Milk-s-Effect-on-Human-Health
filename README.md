@@ -1,6 +1,5 @@
-# 🥛 Milk's Effect on Human Health
+# 🥛 Milk's Effect on Human Health - Advanced Data Analysis
 
-</div>
 ## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
