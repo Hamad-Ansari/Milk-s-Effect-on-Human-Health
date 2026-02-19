@@ -121,3 +121,64 @@ The analysis employs **state-of-the-art ML techniques**, hyperparameter optimiza
 ```bash
 git clone https://github.com/yourusername/milk-health-analysis.git
 cd milk-health-analysis
+```
+<div style="background: linear-gradient(135deg, #3d5c3d 0%, #046105 50%, #3b473b 100%); 
+            padding: 40px; 
+            border-radius: 20px; 
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+
+<h1 style="margin: 0; font-size: 36px;">🙏 Thank You for Reading!</h1>
+
+<p style="font-size: 18px; margin: 20px 0; color: #c8e6c9;">
+    If you found this notebook helpful, please consider:
+</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+    <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 30px;">
+        ⭐ <b>Upvote this Notebook</b>
+    </div>
+    <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 30px;">
+        💬 <b>Leave a Comment</b>
+    </div>
+    <div style="background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 30px;">
+        🔔 <b>Follow for More</b>
+    </div>
+</div>
+
+<hr style="border: 1px solid rgba(255,255,255,0.3); margin: 30px 0;">
+
+<h2 style="color: #c8e6c9; margin-bottom: 20px;">👨‍💻 About the Author</h2>
+
+<p style="font-size: 16px; line-height: 1.8; max-width: 600px; margin: 0 auto;">
+    I am a passionate <b>Data Scientist & Machine Learning Engineer</b> with expertise in 
+    predictive modeling, deep learning, and data visualization. I love solving real-world 
+    problems with data and sharing knowledge with the community.
+</p>
+
+<div style="margin-top: 30px;">
+    <a href="https://kaggle.com/hammadansari7" style="background: white; color: #3d5c3d; 
+       padding: 12px 25px; border-radius: 25px; text-decoration: none; margin: 5px;
+       display: inline-block; font-weight: bold;">
+       🏆 Kaggle Profile</a>
+    <a href="https://linkedin.com/in/hammad-zahid-xyz" style="background: white; color: #046105; 
+       padding: 12px 25px; border-radius: 25px; text-decoration: none; margin: 5px;
+       display: inline-block; font-weight: bold;">
+       💼 LinkedIn</a>
+    <a href="https://github.com/Hamad-Ansari" style="background: white; color: #3b473b; 
+       padding: 12px 25px; border-radius: 25px; text-decoration: none; margin: 5px;
+       display: inline-block; font-weight: bold;">
+       🐙 GitHub</a>
+    <a href="https://twitter.com/zahid_hamm57652" style="background: white; color: #3d5c3d; 
+       padding: 12px 25px; border-radius: 25px; text-decoration: none; margin: 5px;
+       display: inline-block; font-weight: bold;">
+       🐦 Twitter</a>
+</div>
+
+<p style="margin-top: 30px; font-size: 14px; opacity: 0.8;">
+    © 2026 | Made with Hammad ❤️ and Python
+</p>
+
+</div>
