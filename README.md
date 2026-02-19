@@ -1,5 +1,25 @@
 # 🥛 Milk's Effect on Human Health - Advanced Data Analysis
+<div style="background: linear-gradient(135deg, #3d5c3d 0%, #046105 50%, #3b473b 100%); 
+            padding: 40px; 
+            border-radius: 20px; 
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    
+<h1 style="color: white; font-size: 42px; margin-bottom: 10px;">
+    🥛 Milk's Effect on Human Health
+</h1>
 
+<h3 style="color: #c8e6c9; font-size: 20px;">
+    Advanced Machine Learning Analysis & Predictive Modeling
+</h3>
+
+<hr style="border: 1px solid #a5d6a7; width: 60%; margin: 20px auto;">
+
+<p style="color: white; font-size: 16px;">
+    📊 10,000+ Records | 🤖 4+ ML Models | 🎯 Hyperparameter Tuning | 📈 Interactive Dashboards
+</p>
+
+</div>
 ## 📋 Table of Contents
 
 - [Project Overview](#-project-overview)
@@ -122,6 +142,11 @@ The analysis employs **state-of-the-art ML techniques**, hyperparameter optimiza
 git clone https://github.com/yourusername/milk-health-analysis.git
 cd milk-health-analysis
 ```
+<img width="2380" height="731" alt="data_quality" src="https://github.com/user-attachments/assets/9bedeae9-d2b8-41f4-9172-3c16d9e9b55a" />
+<img width="3199" height="2375" alt="model_comparison" src="https://github.com/user-attachments/assets/d1678805-626d-49b9-8b74-dd848541e00c" />
+<img width="1400" height="1200" alt="newplot" src="https://github.com/user-attachments/assets/888d5b9a-1f9f-4ba2-be47-c4447b5d785c" />
+
+
 <div style="background: linear-gradient(135deg, #3d5c3d 0%, #046105 50%, #3b473b 100%); 
             padding: 40px; 
             border-radius: 20px; 
