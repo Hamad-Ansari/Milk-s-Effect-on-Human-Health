@@ -1,23 +1,4 @@
-# 🥛 Milk's Effect on Human Health - Advanced Data Analysis
-<div style="background: linear-gradient(135deg, #3d5c3d 0%, #046105 50%, #3b473b 100%); 
-            padding: 40px; 
-            border-radius: 20px; 
-            text-align: center;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    
-<h1 style="color: white; font-size: 42px; margin-bottom: 10px;">
-    🥛 Milk's Effect on Human Health
-</h1>
 
-<h3 style="color: #c8e6c9; font-size: 20px;">
-    Advanced Machine Learning Analysis & Predictive Modeling
-</h3>
-
-<hr style="border: 1px solid #a5d6a7; width: 60%; margin: 20px auto;">
-
-<p style="color: white; font-size: 16px;">
-    📊 10,000+ Records | 🤖 4+ ML Models | 🎯 Hyperparameter Tuning | 📈 Interactive Dashboards
-</p>
 
 </div>
 ## 📋 Table of Contents
